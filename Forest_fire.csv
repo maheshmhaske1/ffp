@@ -1,6 +1,6 @@
 Area,windspeed,Temperature,Humidity,Fire Occurrence
-Jharkand,10,45,20,1
-Bangalore,12,30,10,1
+Jharkand,10,45,20,0
+Bangalore,12,30,10,0
 Ecuador,9,20,70,0
 a,20,45,70,1
 Bangalore,30,48,10,1
@@ -81,8 +81,8 @@ asd,1,32,70,0
 ,10,10,60,0
 ,0,30,0,0
 ,45,45,15,1
-Jharkand,10,45,20,1
-Bangalore,12,30,10,1
+Jharkand,10,45,20,0
+Bangalore,12,30,10,0
 Ecuador,9,20,70,0
 a,20,45,70,1
 Bangalore,30,48,10,1
@@ -198,8 +198,8 @@ asd,1,32,70,0
 ,10,10,60,0
 ,0,30,0,0
 ,45,45,15,1
-Jharkand,10,45,20,1
-Bangalore,12,30,10,1
+Jharkand,10,45,20,0
+Bangalore,12,30,10,0
 Ecuador,9,20,70,0
 a,20,45,70,1
 Bangalore,30,48,10,1
@@ -285,8 +285,8 @@ asd,1,32,70,0
 ,10,10,60,0
 ,0,30,0,0
 ,45,45,15,1
-Jharkand,10,45,20,1
-Bangalore,12,30,10,1
+Jharkand,10,45,20,0
+Bangalore,12,30,10,0
 Ecuador,9,20,70,0
 a,20,45,70,1
 Bangalore,30,48,10,1
